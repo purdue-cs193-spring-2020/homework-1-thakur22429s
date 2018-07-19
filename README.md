@@ -1,7 +1,7 @@
 # CS 193 Lab 1 - CS 193 Website
 Throughout this lab you will create a personal github account, use that github account to modify some code from the Lab repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your labs, so for this first one, we're focusing on making sure you can understand the process.
 
-### Step 1 - Setting up a Personal Github Account
+### Step 1 - Setup a Personal Github Account
 If you already have a personal Github account and have activated your Student Developer Pack (i.e. you can create private repositories), feel free to ignore this section.
 
 Github is a service that combines the git version control system (remember what version control is from lecture?) with code hosting and project management services. Throughout most of your career as a Software Developer, you'll be using Github A LOT, so let's go ahead and get you setup with an account. 
@@ -22,7 +22,7 @@ To active the website so you can navigate to it, click on the **Purdue-CS193/lab
 
 Right now, there isn't any meaningful content in this website, just a placeholder that tells you a little about what you can do with the website template. 
 
-### Step 4 - Edit You Website
+### Step 4 - Edit Your Website
 Having just a template website is pretty boring. To edit your website to display more interesting content, go back to the main page for the **Purdue-CS193/lab-1-\<Your Github Username\>** repository. 
 
 From here, click on the **index.md** file. You should see the same content you viewed at ```https://purdue-cs193.github.io/lab-1-<Your Github Username>/``` except this time it is not themed. 
