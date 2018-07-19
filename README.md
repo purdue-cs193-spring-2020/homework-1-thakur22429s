@@ -18,14 +18,14 @@ Now head on over to [github.com](https://github.com/) and (if you're logged in a
 ### Step 3 - Create Your Own Website!
 The repository that was just added to your Github account is already setup with a simple file that displays a basic website. The website content is found in the index.md file. Throughout this lab you will be editing this file to create your own content for this website. 
 
-To active the website so you can navigate to it, click on the **Purdue-CS193/lab-1-\<Your Github Username\>** repository from your Github home page. In the upper right corner, click on the **Settings** button. Scroll down to the section called **GitHub Pages**. Change the **Source** setting to the option called **master branch** and click save. At this point, you can navigate to ```https://purdue-cs193.github.io/lab-1-<Your Github Username\>``` to view the website you just activated!
+To active the website so you can navigate to it, click on the **Purdue-CS193/lab-1-\<Your Github Username\>** repository from your Github home page. In the upper right corner, click on the **Settings** button. Scroll down to the section called **GitHub Pages**. Change the **Source** setting to the option called **master branch** and click save. At this point, you can navigate to ```https://purdue-cs193.github.io/lab-1-<Your Github Username>/``` to view the website you just activated!
 
 Right now, there isn't any meaningful content in this website, just a placeholder that tells you a little about what you can do with the website template. 
 
 ### Step 4 - Edit You Website
 Having just a template website is pretty boring. To edit your website to display more interesting content, go back to the main page for the **Purdue-CS193/lab-1-\<Your Github Username\>** repository. 
 
-From here, click on the **index.md** file. You should see the same content you viewed at ```https://purdue-cs193.github.io/lab-1-<Your Github Username\>``` except this time it is not themed. 
+From here, click on the **index.md** file. You should see the same content you viewed at ```https://purdue-cs193.github.io/lab-1-<Your Github Username>/``` except this time it is not themed. 
 
 To edit this file, click on the **edit** button (it looks like a little pencil) in the upper right hand corner of the file display. This will open a text editor where you can change the contents of the website to whatever you want. Take a few minutes to experiement with the different formatting tools that the website template tells you are available. 
 
