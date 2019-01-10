@@ -4,9 +4,9 @@ Throughout this lab you will create a personal GitHub account, use that GitHub a
 ### Step 1 - Set up a Personal Github Account
 If you already have a personal Github account and have activated your Student Developer Pack (i.e. you can create private repositories), feel free to ignore this section.
 
-Github is a service that combines the git version control system (remember what version control is from lecture?) with code hosting and project management services. Throughout most of your career as a Software Developer, you'll be using Github A LOT, so let's go ahead and get you set up with an account.
+Github is a service that combines the git version control system with code hosting and project management services. Basically it allows people to work togehter :). Throughout most of your career as a Software Developer, you'll be using Github A LOT, so let's go ahead and get you set up with an account.
 
-Hop on over to the [Github website](https://github.com/). Once you're there, click on the [Sign Up](https://github.com/join?source=header-home) link in the upper right to create your account. Choose a memorable, but professional, username (you'll probably have your Github username listed on your resume and be handing it out to companies regularly). Use your Purdue email address to create this account as well. This will allow you to unlock some sweet benefits that Github gives to students for free.
+Hop on over to the [Github website](https://github.com/). Once you're there, click on the [Sign Up](https://github.com/join?source=header-home) link in the upper right to create your account. Choose a memorable, but **PROFESSIONAL**, username (you'll probably have your Github username listed on your resume and be handing it out to companies regularly). Use your Purdue email address to create this account as well. This will allow you to unlock some sweet benefits that Github gives to students for free.
 
 Once your Github account is all set up, you need to request access to the Github Student Developer pack. To do this, navigate to the [Student Developer Pack website](https://education.github.com/pack) and follow the steps there to request access. As soon as you have access to the student benefits, you can continue on with this lab.
 
@@ -30,6 +30,8 @@ From here, click on the **index.md** file. You should see the same content you v
 To edit this file, click on the **edit** button (it looks like a little pencil) in the upper right hand corner of the file display. This will open a text editor where you can change the contents of the website to whatever you want. Take a few minutes to experiment with the different formatting tools that the website template tells you are available.
 
 To save your changes so that they will display on your website, fill out the **Commit Changes** form by describing what you changed about the website. Select the option called **Commit directly to the master branch** and click **Commit changes**. If all is well, you should be able to navigate back to ```https://purdue-cs193.github.io/lab-1-<Your Github Username>/``` and view the changes you made.
+
+The changes may not load immediately. If you do not see any changes, hit CTRL+SHIFT+R. 
 
 ### Step 5 - The Graded Part (**THIS PART IS WHAT WE ARE ACTUALLY GRADING**)
 When you're ready, create a **heading** (a heading is some text that is preceded by a # sign) to title your website
