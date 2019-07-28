@@ -36,13 +36,13 @@ To edit this file, click on the **edit** button (it looks like a little pencil) 
 
 To save your changes so that they will display on your website, fill out the **Commit Changes** form at the bottom by describing what you changed on the website. Select the option called **Commit directly to the master branch** and click **Commit changes**. If all is well, you should be able to navigate back to ```https://Purdue-CS193-Fall-2019.github.io/homework-1-<Your Github Username>/``` and view the changes you made.
 
-**The changes may not load immediately. If you do not see any changes, hit CTRL+SHIFT+R.**
+**Your changes may not load immediately. If you do not see any changes, hit <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd> (or <kbd>⌘</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd> on macs).**
 
 ## Step 6 - The Graded Part (**THIS PART IS WHAT WE ARE ACTUALLY GRADING**)
-When you're ready, create a **heading** (a heading is some text that is preceded by a # sign) to title your website
+When you're ready, create a **heading** (a heading is some text that is preceded by a `# `, note the space after the #) to title your website
 **\<Your Name\>'s First CS193 Homework**
 
-Next, create a bulleted list of some of your favorite things about Purdue CS193 (if you don't have any, I'll be sad :( but try to make some up anyway).
+Next, create a bulleted list of some of your favorite things about CS193 (if you don't have any, I'll be sad :( but try to make some up anyway).  Bulleted lists are a series of lines that each start with a `- ` followed by your text.  You can see an example in `index.md`.
 
 When you're done, commit your changes, just as you did above and you're done! **CONGRATULATIONS** you just completed your first CS193 homework :) Give yourself a pat on the back and bask in the glory of your brand new fancy GitHub Website!
 
