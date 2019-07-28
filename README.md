@@ -1,5 +1,14 @@
 # CS 193 Homework 1 - CS 193 Website
+
+## What is this assignment
+
 Throughout this homework you will create a personal GitHub account, use that GitHub account to modify some code from the homework repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your homeworks. For this first one, we're focusing on getting you used to the process.
+
+## When is this due?
+This homework will be due ####
+
+## When will I know that I'm done
+When you have a GitHub account, told your PSO TAs your GitHub username, as well as a website with all the info required. The info is described later in the assignment. We will be using the link that is created to grade. 
 
 ## Step 1 - Set up a Personal Github Account
 If you already have a personal Github account and have activated your Student Developer Pack (i.e. you can create private repositories), feel free to ignore this section.  If not, read on!
