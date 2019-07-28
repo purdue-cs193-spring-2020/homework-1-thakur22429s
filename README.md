@@ -8,21 +8,19 @@ Throughout this homework you will create a personal GitHub account, use that Git
 This homework will be due ####
 
 ## When will I know that I'm done
-When you have a GitHub account, told your PSO TAs your GitHub username, as well as a website with all the info required. The info is described later in the assignment. We will be using the link that is created to grade. 
+When you have a GitHub account, told your PSO TAs your GitHub username, and have a website with all the info required. The info is described later in the assignment. We will be using the same link you use to view your website to grade it.
 
 ## Step 1 - Set up a Personal Github Account
-If you already have a personal Github account and have activated your Student Developer Pack (i.e. you can create private repositories), feel free to ignore this section.  If not, read on!
-
 Github is a service that combines the git version control system with code hosting and project management services. Basically it allows people to work together :). Throughout most of your career as a Software Developer, you'll be using Github (or something similar) A LOT, so let's go ahead and get you set up with an account.
 
 Hop on over to the [Github website](https://github.com/). Once you're there, click on the [Sign Up](https://github.com/join?source=header-home) link in the upper right to create your account. Choose a memorable, but **PROFESSIONAL**, username (you'll probably have your Github username listed on your resume and be handing it out to companies regularly). **Use your Purdue email address to create this account.** This will allow you to unlock some sweet benefits that Github gives to students for free.
 
 Once your Github account is all set up, you need to request access to the Github Student Developer pack. To do this, navigate to the [Student Developer Pack website](https://education.github.com/pack) and follow the steps there to request access. As soon as you have access to the student benefits, you can continue on with this homework.
 
-## Step 2 - Email your PSO TAs Your GitHub Username
+## Step 2 - Tell your PSO TAs Your GitHub Username
 **IF YOU DON'T DO THIS STEP WE WON'T BE ABLE TO GRADE YOUR HOMEWORKS**
 
-Now that you have a GitHub account set up, email your TAs your GitHub username (send it to all TAs for your section, you can find their emails in the course syllabus).  Note that we need your **GitHub username**, not your email!
+Now that you have a GitHub account set up, email your TAs your GitHub username (send it to all TAs for your section, you can find their emails in the course syllabus).  Alternatively, you call let them know your username in person during your PSO.  Note that we need your **GitHub username**, not your email!
 
 ## Step 3 - Accept the Homework 1 Assignment
 Following the link we gave you to Homework 1, click the "Accept" button to begin importing the homework 1 repository for your own personal use. You should receive an email when this is complete (<1 minute).
