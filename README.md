@@ -56,3 +56,14 @@ When you're done, commit your changes, just as you did above and you're done! **
 ## Optional Extra - Change the Theme of Your Website
 If you aren't a fan of the super cool hacker theme that I chose to be the default of your website, you can easily change it.
 Navigate to the settings page for your **Purdue-CS193-Fall-2019/homework-1-\<Your Github Username\>** and scroll down to the **GitHub Pages** section. Click on **Change theme** and pick your favorite theme!
+
+## Rubric
+| Task                                  | Points |
+|---------------------------------------|--------|
+| Created GitHub account and gave to TA | 3      |
+| Created website through GitHub pages  | 2      |
+| Correctly added name to the heading   | 1      |
+| List exists   | 1      |
+| List is ‘bulleted’   | 1      |
+| List is ‘bulleted’   | 2      |
+| Total   | 10      |
