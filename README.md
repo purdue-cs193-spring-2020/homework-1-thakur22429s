@@ -5,7 +5,7 @@
 Throughout this homework you will create a personal GitHub account, use that GitHub account to modify some code from the homework repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your homeworks. For this first one, we're focusing on getting you used to the process.
 
 ## When is this due?
-This homework will be due ####
+This homework will be due 9/2.
 
 ## When will I know that I'm done
 When you have a GitHub account, told your PSO TAs your GitHub username, and have a website with all the info required. The info is described later in the assignment. We will be using the same link you use to view your website to grade it.
