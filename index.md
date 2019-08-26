@@ -4,6 +4,9 @@
 - The class atmosphere is always comfortable and interactive
 - The instructors focus on clearing doubts and queries rather than lecturing textbook concepts
 
+
+ _**Some gibberish code to cheer you up**_
+
 `#include<fun.h>`
 `#include<cs_is_awesome.h>`
  
