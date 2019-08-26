@@ -23,21 +23,18 @@
    `bool isBored = false;`
     
    `cout<<"\n How are you feeling? ";  `
-   `
-   cin>>isBored;`
+   `cin>>isBored;`
     
    `if(isBored)`
    `{  `
        `task t1 = t1.getCoffeeAndCode();  `
-       `
-       isBored = false;  `
+       `isBored = false;  `
    `}`
     
    `else`
    `{  `
        `while(!isBored)  `
-       `
-       KeepCalmAndCode();  `
+       `KeepCalmAndCode();  `
    `}`
     
  `}`
