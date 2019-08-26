@@ -2,18 +2,18 @@
 
 First time here at **GitHub**. _Markdown_ is really fun to use. 
 
-`#include<fun.h>
- #include<cs_is_awesome.h>
+`#include<fun.h>`
+`#include<cs_is_awesome.h>`
  
- using namespace std;
+`using namespace std;`
  
- class task()
- {
-    public:
+`class task()`
+`{`
+    `public:
       void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}
- };
+ };`
   
- void main()
+`void main()
  {
     bool isBored = false;
     
