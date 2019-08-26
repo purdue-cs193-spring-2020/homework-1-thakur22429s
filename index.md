@@ -1,6 +1,8 @@
 # thakur22429s's First CS193 Homework
 
-
+- CS193 is a reallyu helpful class as it connects better because of the fact that it is run by the USB 
+- The class atmosphere is always comfortable and interactive
+- The instructors focus on clearing doubts and queries rather than lecturing textbook concepts
 
 `#include<fun.h>`
 `#include<cs_is_awesome.h>`
