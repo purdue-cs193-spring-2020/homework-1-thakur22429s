@@ -15,8 +15,8 @@ First time here at **GitHub**. _Markdown_ is really fun to use.
 `};`
   
 `void main()`
-`{`
-   `bool isBored = false;`
+`{
+    bool isBored = false;
     
     cout<<"\n How are you feeling? ";
     cin>>isBored;
@@ -33,7 +33,7 @@ First time here at **GitHub**. _Markdown_ is really fun to use.
         KeepCalmAndCode();
     }
     
-  }`
+  }
 
 
 
