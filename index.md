@@ -7,7 +7,7 @@
 
  _**Some gibberish code to cheer you up**_
 
-`class task()
+` class task()
  {
      public:
      void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}
