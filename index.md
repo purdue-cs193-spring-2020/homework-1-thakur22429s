@@ -7,7 +7,14 @@
 
  _**Some gibberish code to cheer you up**_
 
-` class task()
+` 
+void KeepCalmAndCode()
+{
+   int c;
+   c++; 
+}
+
+class task()
  {
      public:
      void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}
