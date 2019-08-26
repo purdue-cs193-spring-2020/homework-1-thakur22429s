@@ -8,7 +8,7 @@
  _**Some gibberish code to cheer you up**_
 
 ```c++
-`void KeepCalmAndCode()
+void KeepCalmAndCode()
 {
    int c;
    c++; 
@@ -22,9 +22,9 @@ class task()
   
  void main()
  {
-    bool isBored = false;`
+    bool isBored = false;
     
-   `cout<<"\n How are you feeling? ";
+    cout<<"\n How are you feeling? ";
     cin>>isBored;
     
     if(isBored)
