@@ -14,8 +14,8 @@ First time here at **GitHub**. _Markdown_ is really fun to use.
      `void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}`
 `};`
   
-`void main()`
-`{
+`void main()
+ {
     bool isBored = false;
     
     cout<<"\n How are you feeling? ";
@@ -33,7 +33,7 @@ First time here at **GitHub**. _Markdown_ is really fun to use.
         KeepCalmAndCode();
     }
     
-  }
+  }`
 
 
 
