@@ -38,5 +38,5 @@ class task()
         while(!isBored)
         KeepCalmAndCode();
     }
- }`
+ }
 
