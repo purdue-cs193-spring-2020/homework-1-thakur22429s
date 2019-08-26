@@ -7,12 +7,7 @@
 
  _**Some gibberish code to cheer you up**_
 
-`#include<fun.h>
- #include<cs_is_awesome.h>
- 
- using namespace std;
- 
- class task()
+`class task()
  {
      public:
      void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}
