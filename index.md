@@ -13,28 +13,28 @@
 `using namespace std;`
  
 `class task()`
-`{  `
-    `public:  `
-     `void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}  `
-`};  `
+`{`
+    `public:`
+     `void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}`
+`};`
   
 `void main()`
-`{  `
+`{`
    `bool isBored = false;`
     
-   `cout<<"\n How are you feeling? ";  `
+   `cout<<"\n How are you feeling? ";`
    `cin>>isBored;`
     
    `if(isBored)`
-   `{  `
-       `task t1 = t1.getCoffeeAndCode();  `
-       `isBored = false;  `
+   `{`
+       `task t1 = t1.getCoffeeAndCode();`
+       `isBored = false;`
    `}`
     
    `else`
-   `{  `
-       `while(!isBored)  `
-       `KeepCalmAndCode();  `
+   `{`
+       `while(!isBored)`
+       `KeepCalmAndCode();`
    `}`
     
  `}`
