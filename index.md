@@ -32,8 +32,7 @@ First time here at **GitHub**. _Markdown_ is really fun to use.
         KeepCalmAndCode();
     }
     
-  }
-`
+  }`
 
 
 
