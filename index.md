@@ -10,7 +10,7 @@
 ```c++
 void KeepCalmAndCode()
 {
-   int c;
+   int c = 5270;
    c++; 
 }
 
