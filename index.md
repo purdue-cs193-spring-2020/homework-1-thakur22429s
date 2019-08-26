@@ -3,7 +3,6 @@
 First time here at **GitHub**. _Markdown_ is really fun to use. 
 
 `#include<fun.h>`
-
 `#include<cs_is_awesome.h>`
  
 `using namespace std;`
@@ -14,26 +13,26 @@ First time here at **GitHub**. _Markdown_ is really fun to use.
      `void getCoffeeAndCode(){ cout<<"\n Feeling Better! :-) ";}`
 `};`
   
-`void main()
- {
-    bool isBored = false;
+`void main()`
+`{`
+   `bool isBored = false;`
     
-    cout<<"\n How are you feeling? ";
-    cin>>isBored;
+   `cout<<"\n How are you feeling? ";`
+   `cin>>isBored;`
     
-    if(isBored)
-    {
-        task t1 = t1.getCoffeeAndCode();
-        isBored = false;
-    }
+   `if(isBored)`
+   `{`
+       `task t1 = t1.getCoffeeAndCode();`
+       `isBored = false;`
+   `}`
     
-    else
-    {
-        while(!isBored)
-        KeepCalmAndCode();
-    }
+   `else`
+   `{`
+       `while(!isBored)`
+       `KeepCalmAndCode();`
+   `}`
     
-  }`
+ `}`
 
 
 
