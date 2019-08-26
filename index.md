@@ -1,6 +1,6 @@
 # thakur22429s's First CS193 Homework
 
-- CS193 is a reallyu helpful class as it connects better because of the fact that it is run by the USB 
+- CS193 is a really helpful class as it connects better with the students because of the fact that it is run by the USB 
 - The class atmosphere is always comfortable and interactive
 - The instructors focus on clearing doubts and queries rather than lecturing textbook concepts
 
