@@ -7,7 +7,8 @@
 
  _**Some gibberish code to cheer you up**_
 
-`void KeepCalmAndCode()
+```c++
+void KeepCalmAndCode()
 {
    int c;
    c++; 
@@ -37,6 +38,6 @@ class task()
         while(!isBored)
         KeepCalmAndCode();
     }
- }`
+ }```
 
 
