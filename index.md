@@ -5,7 +5,7 @@
 - The instructors focus on clearing doubts and queries rather than lecturing textbook concepts
 
 
- _**Some gibberish code to cheer you up**_
+ _**Some gibberish code to cheer you up (Messed up on the webpage, open in GitHub)**_
 
 ```c++
 void KeepCalmAndCode()
